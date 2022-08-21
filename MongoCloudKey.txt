@@ -1,0 +1,8 @@
+user - Shashwat
+passkey- https://cloud.mongodb.com/v2/630088cf5b7806501fc210d6#setup/access?includeToast=true
+
+
+user - Shashwat_Singh
+pass- WebDev@123
+
+For mongo cloud
